@@ -1,0 +1,11 @@
+{"created_at": "Fri Oct 30 15:28:46 +0000 2015","entities": {"hashtags": [{"text": "Irelia"}, {"text": "Renekton"}, {"text": "Graves"}]}}
+{"created_at": "Fri Oct 30 15:28:45 +0000 2015","entities": {"hashtags": [{"text": "Irelia"}, {"text": "Renekton"}]}}
+{"created_at": "Fri Oct 30 15:29:45 +0000 2015","entities": {"hashtags": [{"text": "Graves"}, {"text": "Renekton"}]}}
+{"created_at": "Fri Oct 30 15:29:45 +0000 2015","entities": {"hashtags": [{"text": "Graves"}, {"text": "Graves"}, {"text": "Graves"}, {"text": "Graves"}, {"text": "Graves"}]}}
+{"created_at": "Fri Oct 30 15:28:44 +0000 2015","entities": {"hashtags": [{"text": "Lux"}, {"text": "Orianna"}]}}
+{"created_at": "Fri Oct 30 15:29:44 +0000 2015","entities": {"hashtags": [{"text": "Graves"}, {"text": "Grags"}]}}
+{"created_at": "Fri Oct 30 15:29:44 +0000 2015","entities": {"hashtags": [{"text": "Elise"}, {"text": "Grags"}]}}
+{"created_at": "Fri Oct 30 15:29:44 +0000 2015","entities": {"hashtags": [{"text": "Elise"}, {"text": "Graves"}]}}
+{"created_at": "Fri Oct 30 15:29:46 +0000 2015","entities": {"hashtags": [{"text": "Elise"}, {"text": "Graves"}]}}
+{"created_at": "Fri Oct 30 15:29:47 +0000 2015","entities": {"hashtags": [{"text": "Elise"}, {"text": "Graves"}]}}
+{"created_at": "Fri Oct 30 15:31:44 +0000 2015","entities": {"hashtags": [{"text": "Miss Fortune"}, {"text": "Vayne"}]}}
