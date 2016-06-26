@@ -1,4 +1,4 @@
-# TweeterAverageDegreeIn60s
+# TwitterAverageDegreeIn60s
 
 ## Project Description
 In general, this is a JAVA program that calculates the average degree of a vertex in a Twitter hashtag graph for the last 60 seconds, and update this each time a new tweet appears.
